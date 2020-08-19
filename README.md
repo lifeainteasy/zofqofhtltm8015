@@ -1,6 +1,6 @@
 ## Web Front End Developer 👋
 - High School Web Developer 📗
-- I like React 🤭 with Redux 🥰 because it is fantastic!!! 
+- I like React 🤭 with Redux 🥰  because it helps more efficient code management!
 - Preparing for employment 💻
 
 
