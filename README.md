@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
+
 ## Web Front End Developer 👋
 - High School Web Developer 📗
 - I like React 🤭 with Redux 🥰  because it helps more efficient code management!
