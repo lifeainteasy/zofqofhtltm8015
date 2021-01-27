@@ -4,9 +4,7 @@
 ## Web Front End Developer 👋
 - High School Web Developer 📗
 - I like React 🤭 with Redux 🥰  because it helps more efficient code management!
-- Preparing for employment 💻 for Web-Front developer
 
-- Contact me!  : zofqofhtltm2@gmail.com
 
 # Technical Stack 😊
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
