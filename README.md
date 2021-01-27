@@ -1,12 +1,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=I%20Want%20to%20be%20a%20officer%20😁&fontSize=60&fontAlignY=35)
 
+
+# My hobby is coding, I'm not looking for work🤦‍♂️
+
+- Feel free to contact me if you are creating a web to help others! 
+   - contact me!! -> zofoqfhtltm2@gmail.com
+- I don't want to make a web that is used commercially **for now**.🔮✅
+
+
 ## Web Front End Developer 👋
 - High School Student studying the web 📗
 - I like React 🤭 with Redux 🥰  because it helps more efficient code management!
-- My hobby is coding, I'm not looking for work
-- Feel free to contact me if you are creating a free web to help others! 
- - contact me!! -> zofoqfhtltm2@gmail.com
 
 # Technical Stack 😊
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
