@@ -4,9 +4,7 @@
 
 # My hobby is coding, I'm not looking for job🤦‍♂️
 
-- Feel free to contact me if you are creating a web to help others! 
-   - contact me!! -> zofqofhtltm2@gmail.com
-- I don't want to make a web that is used commercially **for now**.🔮✅
+
 
 
 ## Web Front End Developer 👋
